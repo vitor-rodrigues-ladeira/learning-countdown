@@ -16,7 +16,8 @@
       "rich-text#guide3",
       "rich-text#guide4",
       "info-card#clearance",
-      "info-card#vintage"
+      "info-card#vintage",
+      "countdown"
     ]
   },
   "rich-text#guide1": {
