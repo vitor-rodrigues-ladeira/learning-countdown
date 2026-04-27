@@ -16,8 +16,7 @@
       "rich-text#guide3",
       "rich-text#guide4",
       "info-card#clearance",
-      "info-card#vintage",
-      "countdown"
+      "info-card#vintage"
     ]
   },
   "rich-text#guide1": {
@@ -222,14 +221,6 @@
     "props": {
       "text": "Hello"
     }
-  },
-  "list-context.product-list": {
-    "blocks": [
-      "product-summary.shelf"
-    ],
-    "children": [
-      "slider-layout"
-    ]
   },
   "product-summary.shelf": {
     "children": [

@@ -53,9 +53,9 @@
   },
   "product-identifier.product": {
     "props": {
-      "label": "default", //'default' | 'custom' | 'hide'
-      "customLabel": "teste", // text if label is custom
-      "idField": "skuReferenceId" //'itemId' | 'productId' | 'productReference' | 'skuEan' | 'skuReferenceId'
+      "label": "default", 
+      "customLabel": "teste", 
+      "idField": "skuReferenceId"
     }
   },
   "product-quantity": {
